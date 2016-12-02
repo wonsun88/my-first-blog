@@ -1,0 +1,57 @@
+Gtk-Message: GtkDialog mapped without a transient parent. This is discouraged.
+openConnection: connect: No such file or directory
+cannot connect to brltty at :0
+upstart: Rejected send message, 3 matched rules; type="method_call", sender=":1.30" (uid=0 pid=1206 comm="/sbin/upstart --user ") interface="org.freedesktop.DBus" member="UpdateActivationEnvironment" error name="(unset)" requested_reply="0" destination="org.freedesktop.DBus" (bus)
+upstart: dbus_vars[0] item0: GTK_MODULES
+upstart: dbus_vars[0] item1: gail:atk-bridge:unity-gtk-module
+upstart: Failed to update DBus activation environment
+upstart: Rejected send message, 3 matched rules; type="method_call", sender=":1.30" (uid=0 pid=1206 comm="/sbin/upstart --user ") interface="org.freedesktop.DBus" member="UpdateActivationEnvironment" error name="(unset)" requested_reply="0" destination="org.freedesktop.DBus" (bus)
+upstart: dbus_vars[0] item0: DBUS_SESSION_BUS_ADDRESS
+upstart: dbus_vars[0] item1: unix:abstract
+upstart: Failed to update DBus activation environment
+upstart: Rejected send message, 3 matched rules; type="method_call", sender=":1.30" (uid=0 pid=1206 comm="/sbin/upstart --user ") interface="org.freedesktop.DBus" member="UpdateActivationEnvironment" error name="(unset)" requested_reply="0" destination="org.freedesktop.DBus" (bus)
+upstart: dbus_vars[0] item0: GNOME_KEYRING_CONTROL
+upstart: dbus_vars[0] item1: 
+upstart: Failed to update DBus activation environment
+upstart: Rejected send message, 3 matched rules; type="method_call", sender=":1.30" (uid=0 pid=1206 comm="/sbin/upstart --user ") interface="org.freedesktop.DBus" member="UpdateActivationEnvironment" error name="(unset)" requested_reply="0" destination="org.freedesktop.DBus" (bus)
+upstart: dbus_vars[0] item0: GNOME_KEYRING_PID
+upstart: dbus_vars[0] item1: 
+upstart: Failed to update DBus activation environment
+upstart: Rejected send message, 3 matched rules; type="method_call", sender=":1.30" (uid=0 pid=1206 comm="/sbin/upstart --user ") interface="org.freedesktop.DBus" member="UpdateActivationEnvironment" error name="(unset)" requested_reply="0" destination="org.freedesktop.DBus" (bus)
+upstart: dbus_vars[0] item0: SSH_AUTH_SOCK
+upstart: dbus_vars[0] item1: /run/user/0/keyring/ssh
+upstart: Failed to update DBus activation environment
+upstart: Rejected send message, 3 matched rules; type="method_call", sender=":1.30" (uid=0 pid=1206 comm="/sbin/upstart --user ") interface="org.freedesktop.DBus" member="UpdateActivationEnvironment" error name="(unset)" requested_reply="0" destination="org.freedesktop.DBus" (bus)
+upstart: dbus_vars[0] item0: XMODIFIERS
+upstart: dbus_vars[0] item1: @im
+upstart: Failed to update DBus activation environment
+upstart: Rejected send message, 3 matched rules; type="method_call", sender=":1.30" (uid=0 pid=1206 comm="/sbin/upstart --user ") interface="org.freedesktop.DBus" member="UpdateActivationEnvironment" error name="(unset)" requested_reply="0" destination="org.freedesktop.DBus" (bus)
+upstart: dbus_vars[0] item0: GTK_IM_MODULE
+upstart: dbus_vars[0] item1: ibus
+upstart: Failed to update DBus activation environment
+upstart: Rejected send message, 3 matched rules; type="method_call", sender=":1.30" (uid=0 pid=1206 comm="/sbin/upstart --user ") interface="org.freedesktop.DBus" member="UpdateActivationEnvironment" error name="(unset)" requested_reply="0" destination="org.freedesktop.DBus" (bus)
+upstart: dbus_vars[0] item0: QT_IM_MODULE
+upstart: dbus_vars[0] item1: ibus
+upstart: Failed to update DBus activation environment
+upstart: Rejected send message, 3 matched rules; type="method_call", sender=":1.30" (uid=0 pid=1206 comm="/sbin/upstart --user ") interface="org.freedesktop.DBus" member="UpdateActivationEnvironment" error name="(unset)" requested_reply="0" destination="org.freedesktop.DBus" (bus)
+upstart: dbus_vars[0] item0: QT4_IM_MODULE
+upstart: dbus_vars[0] item1: xim
+upstart: Failed to update DBus activation environment
+upstart: Rejected send message, 3 matched rules; type="method_call", sender=":1.30" (uid=0 pid=1206 comm="/sbin/upstart --user ") interface="org.freedesktop.DBus" member="UpdateActivationEnvironment" error name="(unset)" requested_reply="0" destination="org.freedesktop.DBus" (bus)
+upstart: dbus_vars[0] item0: CLUTTER_IM_MODULE
+upstart: dbus_vars[0] item1: xim
+upstart: Failed to update DBus activation environment
+upstart: update-notifier-crash (/var/crash/_usr_lib_colord_colord-sane.113.crash) main process (1615) terminated with status 1
+upstart: update-notifier-crash (/var/crash/_usr_bin_file-roller.1000.crash) main process (1614) terminated with status 1
+upstart: Rejected send message, 3 matched rules; type="method_call", sender=":1.30" (uid=0 pid=1206 comm="/sbin/upstart --user ") interface="org.freedesktop.DBus" member="UpdateActivationEnvironment" error name="(unset)" requested_reply="0" destination="org.freedesktop.DBus" (bus)
+upstart: dbus_vars[0] item0: GPG_AGENT_INFO
+upstart: dbus_vars[0] item1: /root/.gnupg/S.gpg-agent:0:1
+upstart: Failed to update DBus activation environment
+upstart: Rejected send message, 3 matched rules; type="method_call", sender=":1.30" (uid=0 pid=1206 comm="/sbin/upstart --user ") interface="org.freedesktop.DBus" member="UpdateActivationEnvironment" error name="(unset)" requested_reply="0" destination="org.freedesktop.DBus" (bus)
+upstart: dbus_vars[0] item0: GNOME_DESKTOP_SESSION_ID
+upstart: dbus_vars[0] item1: this-is-deprecated
+upstart: Failed to update DBus activation environment
+upstart: Rejected send message, 3 matched rules; type="method_call", sender=":1.30" (uid=0 pid=1206 comm="/sbin/upstart --user ") interface="org.freedesktop.DBus" member="UpdateActivationEnvironment" error name="(unset)" requested_reply="0" destination="org.freedesktop.DBus" (bus)
+upstart: dbus_vars[0] item0: COMPIZ_CONFIG_PROFILE
+upstart: dbus_vars[0] item1: ubuntu
+upstart: Failed to update DBus activation environment

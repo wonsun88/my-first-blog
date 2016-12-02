@@ -1,0 +1,71 @@
+Gtk-Message: GtkDialog mapped without a transient parent. This is discouraged.
+openConnection: connect: No such file or directory
+cannot connect to brltty at :0
+upstart: Rejected send message, 3 matched rules; type="method_call", sender=":1.36" (uid=0 pid=1318 comm="/sbin/upstart --user ") interface="org.freedesktop.DBus" member="UpdateActivationEnvironment" error name="(unset)" requested_reply="0" destination="org.freedesktop.DBus" (bus)
+upstart: dbus_vars[0] item0: GTK_MODULES
+upstart: dbus_vars[0] item1: gail:atk-bridge:unity-gtk-module
+upstart: Failed to update DBus activation environment
+upstart: Rejected send message, 3 matched rules; type="method_call", sender=":1.36" (uid=0 pid=1318 comm="/sbin/upstart --user ") interface="org.freedesktop.DBus" member="UpdateActivationEnvironment" error name="(unset)" requested_reply="0" destination="org.freedesktop.DBus" (bus)
+upstart: dbus_vars[0] item0: DBUS_SESSION_BUS_ADDRESS
+upstart: dbus_vars[0] item1: unix:abstract
+upstart: Failed to update DBus activation environment
+upstart: Rejected send message, 3 matched rules; type="method_call", sender=":1.36" (uid=0 pid=1318 comm="/sbin/upstart --user ") interface="org.freedesktop.DBus" member="UpdateActivationEnvironment" error name="(unset)" requested_reply="0" destination="org.freedesktop.DBus" (bus)
+upstart: dbus_vars[0] item0: GNOME_KEYRING_CONTROL
+upstart: dbus_vars[0] item1: 
+upstart: Failed to update DBus activation environment
+upstart: Rejected send message, 3 matched rules; type="method_call", sender=":1.36" (uid=0 pid=1318 comm="/sbin/upstart --user ") interface="org.freedesktop.DBus" member="UpdateActivationEnvironment" error name="(unset)" requested_reply="0" destination="org.freedesktop.DBus" (bus)
+upstart: dbus_vars[0] item0: SSH_AUTH_SOCK
+upstart: dbus_vars[0] item1: /run/user/0/keyring/ssh
+upstart: Failed to update DBus activation environment
+upstart: Rejected send message, 3 matched rules; type="method_call", sender=":1.36" (uid=0 pid=1318 comm="/sbin/upstart --user ") interface="org.freedesktop.DBus" member="UpdateActivationEnvironment" error name="(unset)" requested_reply="0" destination="org.freedesktop.DBus" (bus)
+upstart: dbus_vars[0] item0: GNOME_KEYRING_PID
+upstart: dbus_vars[0] item1: 
+upstart: Failed to update DBus activation environment
+upstart: Rejected send message, 3 matched rules; type="method_call", sender=":1.36" (uid=0 pid=1318 comm="/sbin/upstart --user ") interface="org.freedesktop.DBus" member="UpdateActivationEnvironment" error name="(unset)" requested_reply="0" destination="org.freedesktop.DBus" (bus)
+upstart: dbus_vars[0] item0: XMODIFIERS
+upstart: dbus_vars[0] item1: @im
+upstart: Failed to update DBus activation environment
+upstart: Rejected send message, 3 matched rules; type="method_call", sender=":1.36" (uid=0 pid=1318 comm="/sbin/upstart --user ") interface="org.freedesktop.DBus" member="UpdateActivationEnvironment" error name="(unset)" requested_reply="0" destination="org.freedesktop.DBus" (bus)
+upstart: dbus_vars[0] item0: GTK_IM_MODULE
+upstart: dbus_vars[0] item1: ibus
+upstart: Failed to update DBus activation environment
+upstart: Rejected send message, 3 matched rules; type="method_call", sender=":1.36" (uid=0 pid=1318 comm="/sbin/upstart --user ") interface="org.freedesktop.DBus" member="UpdateActivationEnvironment" error name="(unset)" requested_reply="0" destination="org.freedesktop.DBus" (bus)
+upstart: dbus_vars[0] item0: QT_IM_MODULE
+upstart: dbus_vars[0] item1: ibus
+upstart: Failed to update DBus activation environment
+upstart: Rejected send message, 3 matched rules; type="method_call", sender=":1.36" (uid=0 pid=1318 comm="/sbin/upstart --user ") interface="org.freedesktop.DBus" member="UpdateActivationEnvironment" error name="(unset)" requested_reply="0" destination="org.freedesktop.DBus" (bus)
+upstart: dbus_vars[0] item0: QT4_IM_MODULE
+upstart: dbus_vars[0] item1: xim
+upstart: Failed to update DBus activation environment
+upstart: Rejected send message, 3 matched rules; type="method_call", sender=":1.36" (uid=0 pid=1318 comm="/sbin/upstart --user ") interface="org.freedesktop.DBus" member="UpdateActivationEnvironment" error name="(unset)" requested_reply="0" destination="org.freedesktop.DBus" (bus)
+upstart: dbus_vars[0] item0: CLUTTER_IM_MODULE
+upstart: dbus_vars[0] item1: xim
+upstart: Failed to update DBus activation environment
+upstart: Rejected send message, 3 matched rules; type="method_call", sender=":1.36" (uid=0 pid=1318 comm="/sbin/upstart --user ") interface="org.freedesktop.DBus" member="UpdateActivationEnvironment" error name="(unset)" requested_reply="0" destination="org.freedesktop.DBus" (bus)
+upstart: dbus_vars[0] item0: GPG_AGENT_INFO
+upstart: dbus_vars[0] item1: /root/.gnupg/S.gpg-agent:0:1
+upstart: Failed to update DBus activation environment
+upstart: Rejected send message, 3 matched rules; type="method_call", sender=":1.36" (uid=0 pid=1318 comm="/sbin/upstart --user ") interface="org.freedesktop.DBus" member="UpdateActivationEnvironment" error name="(unset)" requested_reply="0" destination="org.freedesktop.DBus" (bus)
+upstart: dbus_vars[0] item0: GNOME_DESKTOP_SESSION_ID
+upstart: dbus_vars[0] item1: this-is-deprecated
+upstart: Failed to update DBus activation environment
+upstart: Rejected send message, 3 matched rules; type="method_call", sender=":1.36" (uid=0 pid=1318 comm="/sbin/upstart --user ") interface="org.freedesktop.DBus" member="UpdateActivationEnvironment" error name="(unset)" requested_reply="0" destination="org.freedesktop.DBus" (bus)
+upstart: dbus_vars[0] item0: COMPIZ_CONFIG_PROFILE
+upstart: dbus_vars[0] item1: ubuntu
+upstart: Failed to update DBus activation environment
+upstart: window-stack-bridge main process (1773) killed by HUP signal
+upstart: bamfdaemon main process (1834) killed by TERM signal
+upstart: hud main process (1908) killed by HUP signal
+upstart: unity-settings-daemon main process (1910) killed by HUP signal
+upstart: gnome-session (Unity) main process (1919) killed by HUP signal
+upstart: unity-panel-service main process (1926) killed by HUP signal
+upstart: indicator-messages main process (1948) killed by HUP signal
+upstart: indicator-bluetooth main process (1949) killed by TERM signal
+upstart: indicator-power main process (1950) killed by TERM signal
+upstart: indicator-datetime main process (1951) killed by TERM signal
+upstart: indicator-keyboard main process (1952) killed by HUP signal
+upstart: indicator-printers main process (1963) killed by TERM signal
+upstart: indicator-session main process (1970) killed by TERM signal
+upstart: indicator-application main process (1978) killed by TERM signal
+upstart: unity7 main process (1942) terminated with status 1
+upstart: indicator-sound main process (1957) killed by HUP signal
